@@ -1,0 +1,405 @@
+Chunk: Data Length 13 (max 2147483647), Type 1380206665 [IHDR]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IHDR Width: 1000
+  IHDR Height: 1000
+  IHDR Bitdepth: 8
+  IHDR Colortype: 2
+  IHDR Compression: 0
+  IHDR Filter: 0
+  IHDR Interlace: 0
+  IHDR Compression algorithm is Deflate
+  IHDR Filter method is type zero (None, Sub, Up, Average, Paeth)
+  IHDR Interlacing is disabled
+  Chunk CRC: -1027521613
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1613015607
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -670969238
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1783385294
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1091077072
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 752183099
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -105568545
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -491486300
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1091077072
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1805073868
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1339231202
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1540511661
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -2140561797
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 2097899265
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1900931511
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -546564493
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1828387283
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -469616965
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1741796220
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 2076037662
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1900931511
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -670969238
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1469372699
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 504171480
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1900931511
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1805073868
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 282493930
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1783385294
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1556059060
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -306939248
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1741796220
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 213574280
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1830914261
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 2097899265
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1900931511
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 828536671
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1830914261
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1762278222
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1339231202
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 828536671
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 1091077072
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -670969238
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 906998598
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -546564493
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1830914261
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1133872470
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -761501994
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1358503172
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1417252289
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: 2076037662
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -779700568
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -491486300
+Chunk: Data Length 273 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: 1431839947
+Chunk: Data Length 1 (max 2147483647), Type 1212761189 [eDIH]
+  Ancillary, public, PNG 1.2 compliant, unsafe to copy
+  ... Unknown chunk type
+  Chunk CRC: -1677328615
+Chunk: Data Length 5 (max 2147483647), Type 1413563465 [IDAT]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IDAT contains image data
+  Chunk CRC: -33352683
+Chunk: Data Length 0 (max 2147483647), Type 1145980233 [IEND]
+  Critical, public, PNG 1.2 compliant, unsafe to copy
+  IEND contains no data
+  Chunk CRC: -1371381630

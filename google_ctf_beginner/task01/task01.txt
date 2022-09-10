@@ -1,0 +1,35 @@
+Requirement: Find the flag
+First, we go to this website: https://cctv-web.2021.ctfcompetition.com
+Using Dev Tool, we found the file cctv-web... with this snippet of code:
+        -------------------------------------------------------------------
+            const checkPassword = () => {
+            const v = document.getElementById("password").value;
+            const p = Array.from(v).map(a => 0xCafe + a.charCodeAt(0));
+
+            if(p[0] === 52037 &&
+                p[6] === 52081 &&
+                p[5] === 52063 &&
+                p[1] === 52077 &&
+                p[9] === 52077 &&
+                p[10] === 52080 &&
+                p[4] === 52046 &&
+                p[3] === 52066 &&
+                p[8] === 52085 &&
+                p[7] === 52081 &&
+                p[2] === 52077 &&
+                p[11] === 52066) {
+                window.location.replace(v + ".html");
+            } else {
+                alert("Wrong password!");
+            }
+            }
+        --------------------------------------------------------------------    
+=> A script to check the password
+v is the password you type into the box
+The line "const p = Array.from(v).map(a => 0xCafe + a.charCodeAt(0));" means that each element of the 
+list p is each letter from the password which will be converted into number, then add the value of 0xCafe in 
+decimal (51966).
+Rearrange the elements of the list, I write a Python simple script to find the password (ex1.py)
+=> The password is "GoodPassword"
+Enter the password, we will be redirected to another website with the flag: 
+CTF{IJustHopeThisIsNotOnShodan}
