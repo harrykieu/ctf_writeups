@@ -3,9 +3,9 @@ function controlCar(scanArray) {
     var max = scanArray[0];
     var maxind = 0;
     for (i = 0;i<17;i++){
-        if (scanArray[i]>=max){// fixed, before: scanArray[i]>max -> wrong
+        if (scanArray[i]>=max){                 // fixed, before: scanArray[i]>max -> wrong
             max = scanArray[i];
-            maxind = i - 1; // i forgot to add this line of code
+            maxind = i - 1;                     // i forgot to add this line of code
         }
     }
     if (maxind<8){
