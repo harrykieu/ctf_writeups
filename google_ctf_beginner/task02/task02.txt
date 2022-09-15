@@ -1,3 +1,0 @@
-Requirement: Find the input that need to be set
-Using the logic-gates.png file, we find the flag:
-CTF{BCFIJ}
