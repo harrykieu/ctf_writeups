@@ -12,9 +12,9 @@ We can see that:
   - indexes 9-16: on the right side of the car (index 9 is the measurement at the right headlight)
 - A negative measurement might appear if the obstacle is very close behind the car (this one is not necessary)
 - Return value of function: 
-  - -1: drive more to the left,
-  - 0: continue straight / straighten up the car,
-  - 1: drive more to the right.
+  - `-1`: drive more to the left,
+  - `0`: continue straight / straighten up the car,
+  - `1`: drive more to the right.
 
 There is also an explained version of the requirement: https://high-speed-chase-web.2021.ctfcompetition.com/task3explained.png
 
