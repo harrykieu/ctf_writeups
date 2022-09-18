@@ -1,7 +1,4 @@
 # Forensic 101
-## Requirement
-Find the flag inside the file
-## Solution
 - Using `strings` command, we found the string that contains the flag:
 ![Screenshot_2022-09-10_22_49_26](https://user-images.githubusercontent.com/89294020/189495379-75925bbc-17e6-4a97-93d5-5039dd6fed22.png)  
 => Flag: `CTFlearn{wow!_data_is_cool}` 
