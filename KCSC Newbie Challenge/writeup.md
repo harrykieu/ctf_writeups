@@ -21,7 +21,7 @@ https://www.facebook.com/photo?fbid=122765970560556&set=a.120329284137558
   
   
 ## Information Gathering
-- URL: http://chall.kcsc.cf:9000, password SSH: kcsc@123
+- Connect: `ssh user@chall.kcsc.cf -p XXXXX`, password SSH: `kcsc@123`
 - Directory `/home/user`:
 ```
 total 112K
