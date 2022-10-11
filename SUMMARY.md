@@ -1,7 +1,6 @@
 # Table of contents
 
-* [KCSC Newbie Challenge](README.md)
-* [google\_ctf\_beginner](google\_ctf\_beginner/README.md)
+* [google\_ctf\_beginner](README.md)
   * [task01](google\_ctf\_beginner/task01.md)
   * [task02](google\_ctf\_beginner/task02.md)
   * [task03](google\_ctf\_beginner/task03.md)
@@ -15,3 +14,4 @@
     * [Git Is Good](ctflearn.com/forensics/writeup-3.md)
   * [Web](ctflearn.com/web/README.md)
     * [Basic Injection](ctflearn.com/web/writeup.md)
+* [KCSC Newbie Challenge](kcsc-newbie-challenge.md)
