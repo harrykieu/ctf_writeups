@@ -1,2 +1,2 @@
-# google\_ctf\_beginner
+Gitbook version
 
