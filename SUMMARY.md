@@ -1,11 +1,12 @@
 # Table of contents
 
-* [google\_ctf\_beginner](README.md)
-  * [task01](google\_ctf\_beginner/task01.md)
-  * [task02](google\_ctf\_beginner/task02.md)
-  * [task03](google\_ctf\_beginner/task03.md)
-  * [task05](google\_ctf\_beginner/task05.md)
-  * [task08](google\_ctf\_beginner/task08.md)
+* [Introduction](README.md)
+* [Google CTF Beginner](google-ctf-beginner/README.md)
+  * [task01](google-ctf-beginner/task01.md)
+  * [task02](google-ctf-beginner/task02.md)
+  * [task03](google-ctf-beginner/task03.md)
+  * [task05](google-ctf-beginner/task05.md)
+  * [task08](google-ctf-beginner/task08.md)
 * [ctflearn.com](ctflearn.com/README.md)
   * [Forensics](ctflearn.com/forensics/README.md)
     * [Forensic 101](ctflearn.com/forensics/writeup.md)
