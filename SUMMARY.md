@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [ctflearn.com](ctflearn.com.md)
 * [KCSC Newbie Challenge](kcsc-newbie-challenge.md)
 
 ## TryHackMe-CTF
@@ -18,10 +17,10 @@
 
 ## ctflearn.com
 
-* [Forensics](ctflearn.com-1/forensics/README.md)
-  * [Forensic 101](ctflearn.com-1/forensics/writeup.md)
-  * [Exif](ctflearn.com-1/forensics/writeup-1.md)
-  * [Taking LS](ctflearn.com-1/forensics/writeup-2.md)
-  * [Git Is Good](ctflearn.com-1/forensics/writeup-3.md)
-* [Web](ctflearn.com-1/web/README.md)
-  * [Basic Injection](ctflearn.com-1/web/writeup.md)
+* [Forensics](ctflearn.com/forensics/README.md)
+  * [Forensic 101](ctflearn.com/forensics/writeup.md)
+  * [Exif](ctflearn.com/forensics/writeup-1.md)
+  * [Taking LS](ctflearn.com/forensics/writeup-2.md)
+  * [Git Is Good](ctflearn.com/forensics/writeup-3.md)
+* [Web](ctflearn.com/web/README.md)
+  * [Basic Injection](ctflearn.com/web/writeup.md)
